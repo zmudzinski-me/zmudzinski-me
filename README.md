@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**zmudzinski-me/zmudzinski-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Łukasz and I'm a `Python` Engineer from Poland 🇵🇱.
 
-Here are some ideas to get you started:
+Over the last 10+ years, I've been creating software for various companies and startups. I am coding in Python, mostly using Django, FastAPI and other backend-related packages. In my free time, I extend my knowledge of the language's internals and learn new best coding practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently working as a `Senior Python Developer` at [Infermedica](https://infermedica.com).
+
+- Be sure to check out our [Careers](https://infermedica.com/careers) page, so we can work on `#digitalhealth` together 🥰.
+
+**Things I can help you with:**
+
+- [x] Writing code for your Python project,
+- [x] Leading technical teams,
+- [x] Consulting architecture and cloud solutions,
+- [ ] Latte art for your daily coffee.
+
+✅ Although my current job takes my full professional attention, you are free to contact me in the following topics:
+
+- `digital health` `humanity` `animal welfare` `general science` `green energy` `agriculture`
+
+🛑 The following topics will be dismantled and exterminated (I won't reply):
+
+- `gambling` `hazard` `adult` `seo` `ecommerce`
+
+May the Force be with you.
